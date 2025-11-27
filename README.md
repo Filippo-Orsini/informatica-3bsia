@@ -350,12 +350,7 @@ int main ()
 ```
 @LIA.cpp
 
-
-@LIA.cpp
-
-
 ### Programma a pag. 107 - tipi.cpp
-#Il linguaggio C++
 ## Gli errori nella programmazione 
 
 ``` cpp
